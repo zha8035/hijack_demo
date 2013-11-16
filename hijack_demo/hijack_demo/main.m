@@ -1,6 +1,6 @@
 //
 //  main.m
-//  hijack_demo
+//  HiJack_demo
 //
 //  Created by demo on 13-11-16.
 //  Copyright (c) 2013年 Junsheng. All rights reserved.
@@ -10,7 +10,7 @@
 
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[])
+int main(int argc, char *argv[])
 {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));

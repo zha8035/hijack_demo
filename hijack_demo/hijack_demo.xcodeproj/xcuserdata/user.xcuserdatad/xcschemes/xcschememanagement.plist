@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>hijack_demo.xcscheme</key>
+		<key>HiJack_demo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>CE691A3D18371F860047F74C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CE691A5818371F870047F74C</key>
+		<key>CE63CBE7183761B100FC40E7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

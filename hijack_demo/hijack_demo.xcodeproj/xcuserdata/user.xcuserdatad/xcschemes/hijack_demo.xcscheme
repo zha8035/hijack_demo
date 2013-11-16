@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0460"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE691A3D18371F860047F74C"
-               BuildableName = "hijack_demo.app"
-               BlueprintName = "hijack_demo"
-               ReferencedContainer = "container:hijack_demo.xcodeproj">
+               BlueprintIdentifier = "CE63CBE7183761B100FC40E7"
+               BuildableName = "HiJack_demo.app"
+               BlueprintName = "HiJack_demo"
+               ReferencedContainer = "container:HiJack_demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE691A5818371F870047F74C"
-               BuildableName = "hijack_demoTests.xctest"
-               BlueprintName = "hijack_demoTests"
-               ReferencedContainer = "container:hijack_demo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE691A3D18371F860047F74C"
-            BuildableName = "hijack_demo.app"
-            BlueprintName = "hijack_demo"
-            ReferencedContainer = "container:hijack_demo.xcodeproj">
+            BlueprintIdentifier = "CE63CBE7183761B100FC40E7"
+            BuildableName = "HiJack_demo.app"
+            BlueprintName = "HiJack_demo"
+            ReferencedContainer = "container:HiJack_demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE691A3D18371F860047F74C"
-            BuildableName = "hijack_demo.app"
-            BlueprintName = "hijack_demo"
-            ReferencedContainer = "container:hijack_demo.xcodeproj">
+            BlueprintIdentifier = "CE63CBE7183761B100FC40E7"
+            BuildableName = "HiJack_demo.app"
+            BlueprintName = "HiJack_demo"
+            ReferencedContainer = "container:HiJack_demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE691A3D18371F860047F74C"
-            BuildableName = "hijack_demo.app"
-            BlueprintName = "hijack_demo"
-            ReferencedContainer = "container:hijack_demo.xcodeproj">
+            BlueprintIdentifier = "CE63CBE7183761B100FC40E7"
+            BuildableName = "HiJack_demo.app"
+            BlueprintName = "HiJack_demo"
+            ReferencedContainer = "container:HiJack_demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
