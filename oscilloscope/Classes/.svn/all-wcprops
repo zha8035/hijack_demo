@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/Classes
+END
+aurioTouchAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/Classes/aurioTouchAppDelegate.h
+END
+FFTBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/Classes/FFTBufferManager.cpp
+END
+aurioTouchAppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/Classes/aurioTouchAppDelegate.mm
+END
+FFTBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/Classes/FFTBufferManager.h
+END

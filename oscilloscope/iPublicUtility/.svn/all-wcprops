@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility
+END
+CAXException.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CAXException.h
+END
+CADebugMacros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CADebugMacros.cpp
+END
+CAMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CAMath.h
+END
+CADebugMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CADebugMacros.h
+END
+CAStreamBasicDescription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CAStreamBasicDescription.cpp
+END
+CAXException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CAXException.cpp
+END
+CAStreamBasicDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/iPhone/oscilloscope/iPublicUtility/CAStreamBasicDescription.h
+END
